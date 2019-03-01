@@ -18,7 +18,7 @@ Leverage a predefined data-set from Flipkart to build a model for Object Localiz
 
 ### Level 3 (Qualifier): Online Machine Learning Challenge - Additional Complexity added to Data-set
 
-<b>Rank : </b>
+<b>Rank : </b>TBA
 
 
 
