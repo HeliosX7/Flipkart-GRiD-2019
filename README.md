@@ -4,7 +4,7 @@
 <img src="https://github.com/HeliosX7/Flipkart-GRiD-2019/blob/master/images/grid_logo.png">
 
 
-<b>Team Name : </b>SKAP
+<b>`Team Name : SKAP`</b>
 
 ### Level 1 (Qualifier): Machine Learning Quiz 
 
@@ -18,7 +18,7 @@ Leverage a predefined data-set from Flipkart to build a model for Object Localiz
 
 ### Level 3 (Qualifier): Online Machine Learning Challenge - Additional Complexity added to Data-set
 
-<b>Rank : </b>TBA
+<b>Rank : </b> ---
 
 
 
