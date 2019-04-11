@@ -1,7 +1,7 @@
 # Flipkart GRiD – Te[a]ch The Machines | 2019
 
 
-<img src="https://github.com/HeliosX7/Flipkart-GRiD-2019/blob/master/images/grid_logo.png" width="750">
+<img src="https://github.com/HeliosX7/Flipkart-GRiD-2019/blob/master/images/grid_logo.png" width="300">
 
 ***
 ### `Team Name : SKAP`
