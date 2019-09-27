@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/heliosx7/Flipkart-GRiD-2019.svg)](http://hits.dwyl.io/heliosx7/Flipkart-GRiD-2019)
+
 # Flipkart GRiD – Te[a]ch The Machines | 2019
 
 
